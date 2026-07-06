@@ -62,9 +62,7 @@ challenges/
 
 This work builds on and extends published research on 5G-focused CTF game design:
 
-- J. Melzer, A. Shafo, Z. Zhao, P. P. Wang, W. Fenwick, W. Almuhtadi, *"Developing 'Capture the Flag' for 5G IoT Cyber Security Training,"* IEEE WF-IoT 2024. DOI: [10.1109/wf-iot62078.2024.10811259](https://doi.org/10.1109/wf-iot62078.2024.10811259)
-
-*(Add citation details for the follow-up paper covering these specific fuzzing/resource-exhaustion challenges once published/indexed.)*
+- J. Melzer, A. Shafo, Z. Zhao, P. P. Wang, W. Fenwick, W. Almuhtadi, *"Developing 'Capture the Flag' for 5G IoT Cyber Security Training,"* IEEE WF-IoT 2024. 
 
 ## Acknowledgements
 
@@ -82,4 +80,4 @@ These challenges are designed for educational and research use in controlled lab
 
 ## License
 
-*(Add a license — MIT is a reasonable default for educational/research code, unless your funding/collaboration agreement specifies otherwise.)*
+
